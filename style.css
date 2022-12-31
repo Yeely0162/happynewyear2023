@@ -14,7 +14,7 @@ body
     letter-spacing: 1px;
 }
 
-    .mauto{margin: auto;}
+    .mauto{margin: 0px;}
 #under-circle1
 {
     -webkit-animation: rotate-center 2s linear infinite both;
